@@ -6,3 +6,4 @@ One can view the statistics of the summer olymppics by switching to the overall 
 One can also visit the countrywise analysis and athlete wise analysis by visiting the respective options.
 
 Visit the web app by clicking the link below
+https://olympics57analysis.herokuapp.com/
